@@ -12,6 +12,17 @@ description: 'HiHello is a digital business card and professional-presence platf
   developer API, SDKs, or API documentation; integration is delivered through pre-built
   connectors and enterprise identity protocols.'
 url: https://raw.githubusercontent.com/api-evangelist/hihello/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
